@@ -3,11 +3,11 @@
 <p>
 Is an application to download videos from Youtube
 </p>
-##Comtability
+<h2>Comtability</h2
 <p>
 The code is tested using python 3.9.6 and pytube 9.6.4
 </p>
-##Inatallation and Usage 
+<h2> Inatallation and Usage</h2> 
  <p>
  first install pytube using the python installer read the full documentation  <a href = "https://pytube.io/en/latest/">here</a>
  ```py
